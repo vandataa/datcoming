@@ -1,0 +1,579 @@
+.khu1 {
+    padding-top: 12px;
+    max-width: 1200px;
+    height: 1000px;
+    margin: auto;
+    background-image: url("../../img/bg-1.jpg");
+}
+
+.logo span {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.app {
+    color: yellowgreen;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.crop {
+    display: flex;
+    list-style: none;
+    border: none;
+}
+
+.title {
+    text-decoration: none;
+    padding-left: 20px;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    font-weight: 5 00;
+
+}
+
+.buttion {
+    margin-left: 90px;
+    padding: 10px;
+    background-color: blue;
+    color: wheat;
+    border-radius: 50px;
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800px;
+}
+
+.conten {
+    padding-top: 500px;
+    margin: auto;
+    max-width: 1100px;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 3px;
+    padding-top: 30px;
+}
+
+.img {
+    margin: auto;
+}
+
+.border-outside {
+    padding-top: 25%;
+}
+
+.plant1 img {
+    border-radius: 30px;
+
+}
+
+.plant1 {
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #242f51;
+    background-color: #e2eaed;
+    padding: 1px;
+    width: 335px;
+    border-radius: 50px;
+    padding-left: 10px;
+    height: 30px;
+
+}
+
+.plant2 {
+    font-size: 60px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 60px;
+    color: #242f51;
+}
+
+.plant3 {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #242f51;
+    font-weight: 400;
+}
+
+.tff>a {
+    text-decoration: none;
+    padding: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+
+.wdm>a {
+    text-decoration: none;
+    margin-left: 10px;
+    font-weight: bold;
+    color: blue;
+}
+
+.khu2 {
+    height: auto;
+    margin: auto;
+    max-width: 1200px;
+    padding-top: 30px;
+}
+
+.title1 {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #242f51;
+}
+
+.imgk2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.conten1 {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.h1k2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    font-weight: 600s;
+    width: 280px;
+    color: #242f51;
+}
+
+.h5k2 {
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #242f51;
+    font-weight: 400;
+    width: 430px;
+}
+
+.title2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 3px;
+    padding-top: 30px;
+}
+
+.col-span-2 {
+    grid-column: span 2 / span 2;
+}
+
+.title2 h1 {
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+}
+
+.title2 h4 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    width: 222px;
+    font-weight: 200;
+}
+
+.title2 img {
+    margin: auto;
+}
+
+.a {
+    color: red;
+}
+
+.b {
+    color: #2563ff;
+}
+
+.c {
+    color: #40975f;
+}
+
+.khu3 {
+    height: auto;
+    margin: auto;
+    max-width: 1200px;
+    padding-top: 30px;
+}
+
+.plan {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.nd1 {
+    font-size: 40px;
+    font-weight: 600;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 370px;
+    border-right: 1px solid gray;
+    padding-right: 180px;
+    color: #242f51;
+}
+
+.nd2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    color: #242f51;
+    width: 400px;
+}
+
+.plan1 {
+    padding-top: 60px;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 6px;
+}
+
+.total h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 600s;
+}
+
+.plan1 h3 {
+    width: 260px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    color: #242f51;
+    font-size: 15px;
+}
+
+.khu4 {
+    max-width: 1600px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 3px;
+}
+
+.clam h2 {
+    padding-top: 180px;
+    font-size: 36px;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 310px;
+
+    padding-right: 180px;
+    color: #242f51;
+}
+
+.clam h4 {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    color: #242f51;
+    width: 300px;
+}
+
+.clam span {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 40px;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 60px;
+}
+
+.khu5 {
+    max-width: 1200px;
+    margin: auto;
+    padding-top: 200px;
+    text-align: center;
+}
+
+.pla {
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    width: 436px;
+    margin: auto;
+    color: #242f51;
+}
+
+.plak5 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #242f51;
+    font-weight: 400;
+    width: 940px;
+    margin: auto;
+    padding: 30px 0;
+}
+
+.gridk5 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.grik h1 {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    color: #242f51;
+}
+
+.grik h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #242f51;
+}
+
+.footer {
+    margin-top: 40px;
+    height: 580px;
+    background-color: #09142e;
+}
+
+.white {
+    color: white;
+}
+
+.planter {
+    padding-top: 80px;
+    text-align: center;
+}
+
+.khu6 {
+    width: 1600px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: auto;
+}
+
+.plack {
+    padding-left: 200px;
+}
+
+.plack .pl {
+    width: 400px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #242f51;
+}
+
+.pt {
+    font-size: 36px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+    width: 350px;
+    color: #242f51;
+}
+
+.gridplack {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.seeall a {
+    text-decoration: none;
+    list-style: none;
+    background-color: #2563ff;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 30px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+
+}
+
+.k6 h3 {
+    width: 258px;
+}
+
+.khu7 {
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 90px;
+
+}
+
+.h1k7 {
+    margin: auto;
+    font-size: 36px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+    color: #242f51;
+    width: 500px;
+}
+
+.h11k7 {
+    margin: auto;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    width: 650px;
+    padding: 30px 0;
+}
+
+.titlek7 {
+    margin: auto;
+    border: #ebebeb solid 1px;
+    border-radius: 50px;
+    width: 230px;
+    height: 53px;
+}
+
+.month {
+    padding: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #2563ff;
+    color: white;
+    margin-left: -28px;
+    margin-right: 10px;
+    margin-top: 3px;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 50px;
+
+}
+
+.annu {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-size: 16px;
+    font-weight: 500;
+    color: #242f51;
+    padding-left: 10px;
+}
+
+.gridk7 {
+    display: flex;
+    margin: auto;
+    justify-items: center;
+    margin-top: 30px;
+
+}
+
+.startfree {
+    padding-left: -40px;
+    padding-top: 10px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0px 20px 30px #40975f;
+    border-radius: 30px;
+    margin-right: -200px;
+}
+
+.startfree:hover {
+    border: #242f51 solid 1px;
+    transform: scale(1.1);
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+
+}
+.startpromasster:hover {
+    border: #242f51 solid 1px;
+    transform: scale(1.1);
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.bussiness {
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 00;
+    color: #242f51;
+}
+
+.fsm {
+    margin-top: -10px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #b0b3ba;
+}
+
+.nb {
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+}
+
+.stfree {
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #2500f9;
+    border: none;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+   
+    border-radius: 30px;
+    
+    
+}
+.stfree a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+
+.bobyk7 ul li {
+    padding: 10px;
+    padding-left: 30px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #b0b3ba;
+}
+
+.headk7 {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: white;
+    background-image: linear-gradient(white, #f4f7f9);
+}
+
+.startpromasster {
+
+    width: 300px;
+    padding-left: -40px;
+    padding-top: 10px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0px 20px 30px #40975f;
+    border-radius: 30px;
+}
+.or{
+    text-decoration: none;
+    list-style: none;
+}
+.bobyk7 li {
+    list-style: none;
+    text-align: start;
+    padding: 5px;
+}
+.khu8{
+  margin: auto;
+  margin-top: 90px;
+  display: flex;
+}
