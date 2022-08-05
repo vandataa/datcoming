@@ -1,0 +1,9 @@
+Đề cương ôn tập
+1. Nhúng font 
+2. Validate form cho tìm kiếm 
+3. Tạo menu và active 
+4. Tạo hiệu ứng (mờ, zoom to 1.5 lần trong 2s) khi di chuột qua ảnh sản phẩm 
+5. Tạo hiệu xoay ảnh trong 2s
+6. Có các thuộc tính CSS3 
+7. Khi focus thì đối tượng sẽ tăng chiều rộng dần lên trong 0.5s. 
+8. - Hiệu ứng bài viết: Khi di chuyển chuột vào tiêu đề sản phẩm thì nội dung mô tả hiển thị từ dưới lên trong 2s
